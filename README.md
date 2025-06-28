@@ -38,7 +38,6 @@ Cada equipo deberá crear una aplicación web sencilla usando Django, siguiendo 
  - Realización de migraciones iniciales.
  - Creación del superusuario inicial.
 
-# Sistema-Gestion-VeterinariaV7
 ## Integrantes
 - Daniel Cano Suarez
 - Miguel Cerquera Arias
